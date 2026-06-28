@@ -1,8 +1,6 @@
+# Hi there, I'm Faraz Ahmed! 👋
 
-
-<!--# Hi there, I'm Faraz Ahmed! 👋
-
-### 🚀 AI, Machine Learning, & Data Science Innovator | Full-Stack Web & Mobile Developer
+###  AI, Machine Learning, & Data Science Innovator | Full-Stack Web & Mobile Developer
 
 I am a passionate developer and lifelong learner bridging the gap between intelligent machine learning systems and scalable software applications. With a robust foundation in **Frontend Web Development, Laravel Full-Stack Architecture, and Flutter Cross-Platform Mobile Engineering**, I am currently dedicating my expertise to mastering **Artificial Intelligence, Computer Vision, and Data Science**. 
 
@@ -36,7 +34,7 @@ A cyber-security semester group project combining network infrastructure securit
 
 ###  Impactful Web Applications
 
-#### 🐾 [ConsAi](https://github.com/farazAhmed987/ConsAi)
+####  [ConsAi](https://github.com/farazAhmed987/ConsAi)
 A centralized animal welfare and rescue platform connecting citizens, veterinarians, and organizations across Punjab, Pakistan.
 * **Key Features:** Citizen incident/cruelty reporting with severity pipelines, OpenStreetMap-integrated veterinary locator, peer-to-peer animal adoption, and an absolute administrative control dashboard.
 * **Tech:** Laravel, Bootstrap 5, Blade Templates, MySQL, OpenStreetMap API.
@@ -54,7 +52,7 @@ A foundational code repository containing the programmatic tasks, algorithmic ex
 
 ---
 
-###  Mobile Applications
+### Mobile Applications
 
 ####  [educationLearningApp](https://github.com/farazAhmed987/educationLearningApp) `EduConnect`
 A feature-dense, mobile-first Flutter platform fostering interactive virtual spaces for students and educators.
@@ -63,7 +61,7 @@ A feature-dense, mobile-first Flutter platform fostering interactive virtual spa
 
 ---
 
-##  My GitHub Stats
+## 📈 My GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=farazAhmed987&show_icons=true&theme=tokyonight" alt="Faraz Ahmed's GitHub Stats" width="48%" />
@@ -75,9 +73,6 @@ A feature-dense, mobile-first Flutter platform fostering interactive virtual spa
 ## 📬 Connect With Me
 
 * **LinkedIn:** [FARAZ AHMED](https://www.linkedin.com/in/faraz-ahmad-79b5a3321)
-* **Email:** [email](flexupp.official@gmail.com)
+* **Email:** [email](mailto:flexupp.official@gmail.com)
 
- *Feel free to explore my repositories! If you see something interesting or want to collaborate on an open-source AI or full-stack project, let's connect!*
-**farazAhmed987/farazAhmed987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+⭐ *Feel free to explore my repositories! If you see something interesting or want to collaborate on an open-source AI or full-stack project, let's connect!*

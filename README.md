@@ -30,6 +30,10 @@ A structured, documentation-heavy repository archiving my hands-on journey from 
 ####  [Phantom_network_threat_scanner](https://github.com/farazAhmed987/Phantom_network_threat_scanner)
 A cyber-security semester group project combining network infrastructure security with predictive intelligence. It scans enterprise networks for open ports and utilizes a specialized Machine Learning model alongside OpenCV analytics to classify system vulnerability risks.
 
+####  [Image_Captioning](https://github.com/farazAhmed987/Image_Captioning)
+An AI semester group project that trains on the ms coco dataset to generate the captions of images
+
+
 ---
 
 ###  Impactful Web Applications
